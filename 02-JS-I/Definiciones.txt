@@ -1,0 +1,12 @@
+Una VARIABLE es una manera de almacenar valores que queremos usar mas tarde. 
+
+Un STRING es cualquier texto que esté entre comillas.
+
+Una FUNCIÓN nos permite realizar tareas con las variables. Una variable puede tener varios ARGUMENTOS dentro (de parentesis, separados por una coma) y podemos también utilizar la declaración RETURN para indicarle a la función qué queremos que devuelva. 
+
+Las declaraciones IF nos permiten indicarle a la función que segun el valor que reciba, nos devuelve una cosa u otra. Si la condicion es true la función se detendrá, y si es false, segurá ejecutandose.
+
+Los valores BOOLEANOS basicamente tienen dos opciones: 0 o 1, activar o desactivar, true o false. Este ultimo ejemplo es el que se utiliza en Js (true o false).
+
+
+
