@@ -1,0 +1,8 @@
+El bucle FOR evalua una y otra vez las expresiones hasta que nos devuelve lo que estamos buscando. En este tipo de bucles declaramos 3 cosas dentro del parentesis: una variable, una condicion y un incremento.
+
+El operador lógico && nos indica justamente eso Y (and). Este operador evaluará las dos expresiones y devolverá verdadero cuando ambas expresiones sean true.
+
+El operador lógico || significa básicamente O (Or). Evaluará ambas expresiones y nos devolverá verdadero si una de las dos expresiones es true. Devolverá falso en caso de que ambas sean falsas.
+
+El operador lógico ! significa No (Not), es un operador que va a devolver el valor booleano contrario al que le estemos dando.
+
