@@ -1,0 +1,6 @@
+los OBJETOS son contenedores de datos. Estos pueden contener muchos datos sobre una cosa. 
+Las PROPIEDADES son atributos del objeto que nos permiten definir sus caracteristicas, y asignarle un valor (key:value). Un objeto tiene multiples propiedades separadas por una ','.
+Los MÉTODOS son funciones guardadas en los objetos. Podemos llamar a estos métodos usando notación de puntos y parentesis finales.
+Como los objetos no tienen indice numerico, para acceder o recorrer sus claves utilizamos los bucles 'FOR... IN', y de esta manera acceder a los valores asociados a sus claves.
+La notación de brackets nos permite acceder al valor de una propiedad. Esta notación nos permite realizar varias acciones.
+La notación de punto, es facil de escribir, pero es literal, no deja margen al interprete de relacionar y buscar un valor.
