@@ -1,0 +1,2 @@
+PROTOTYPE es un modelo original que posee todas las cualidades tecnicas y todas las caracteristicas de funcionamiento del nuevo producto.
+El CONSTRUCTOR es un metodo especial para crear a inicializar un objeto creado a partir de una clase.
