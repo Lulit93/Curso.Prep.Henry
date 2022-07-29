@@ -1,0 +1,2 @@
+Un ARRAY es una estructura de datos, una lista de elementos, definida entre [].
+Podemos utilizar bucle FOR para recorrer nuestro arreglo, acceder a los valores que estan guardados en el arreglo.
