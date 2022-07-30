@@ -1,0 +1,3 @@
+Las funciones CALLBACKS es cuando le pasamos de argumento una función, a una función.
+Estas funciones pueden llamarse en cualquier momento y pasar argumentos dentro de la función.
+Ls convención es usar cb como argumento para la variable que se usará de callback.
